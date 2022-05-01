@@ -1,3 +1,5 @@
+#simple calculator with light and dark theme -- using python - tkinter
+
 #importing tkinter
 from tkinter import *
 import tkinter
